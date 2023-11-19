@@ -1,0 +1,53 @@
+body {
+	font-family: "Open Sans", sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+main {
+  margin: 100px 10px; 
+}
+
+h1 {
+	font-size: 30px;
+	margin-top: 20px;
+	color: #754815;
+}
+
+h2 {
+	font-size: 50px;
+	margin-top: 0;
+	margin-bottom: 20px;
+	color: #754815;
+}
+
+button {
+	border: none;
+	color: white;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 50%;
+  font-weight: 600;
+}
+
+p {
+  color: #754815;
+}
+
+#increment-btn {
+  background: #e5e1d8;
+}
+
+#decrement-btn {
+  background: #e63947;
+}
+
+#double-btn {
+  background: #a9d9db;
+}
+
+#save-btn {
+  background: #477b9d;
+}
